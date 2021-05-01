@@ -41,6 +41,16 @@
   .jumbotron-fluid {
     display: flex;
     color: #fff;
+    height: 500px;
+    padding: 25px;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+   -webkit-background-size: 100% 100%;
+   -moz-background-size: 100% 100%;
+   -o-background-size: 100% 100%;
+   background-size: 100% 100%;
   }
   
   
