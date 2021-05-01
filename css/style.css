@@ -41,7 +41,6 @@
   .jumbotron-fluid {
     display: flex;
     color: #fff;
-    background: url("sydney.jpg");
     box-shadow: inset 0 0 0 20000px rgba(43, 41, 40, 0.4);
     height: 500px;
     padding: 25px;
